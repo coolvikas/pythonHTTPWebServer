@@ -1,0 +1,15 @@
+163059001	DEVASHISH
+163059007	 VIKAS
+
+WEBSERVER in python with a few functionalities.
+
+webserver.py  -> used for runnin server and coding on server
+route.py -> url detection and exec
+session.py -> session handling
+redirect.py -> redirection
+requestobject -> requeest object creation 
+requestparam.py -> getting requested parameters 
+handlers.py -> functions called upon every request
+htmlfilread.py -> reading html file
+
+extarct and simply go to the respective folder containg webserver.py and run python webserver.py
